@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['stream3mess-aaron89.c9users.io']
 
+# host = os.environ.get('SITE_HOST')
+# if host:
+#         ALLOWED_HOSTS
+
 
 # Application definition
 
